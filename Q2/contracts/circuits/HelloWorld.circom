@@ -4,7 +4,7 @@ pragma circom 2.0.0;
 
 template Multiplier2 () {  
 
-   // Declaration of signals.  
+   // Declaration of the signals.  
    signal input a;  
    signal input b;  
    signal output c;  
